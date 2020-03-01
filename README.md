@@ -1,4 +1,13 @@
-# 01 HTML CSS Git: Code Refactor
+## Homework-1-code-refactor
+
+For this, our first UPENN Bootcamp homework assignment, we were instructed as follows from line 10 of this readme doc and down. As I took into consideration each of the acceptance criteria, I made a number of changes ot both the html and css files. I made comments preceeding each change, in order to assist in highlighting the changes.
+
+
+
+
+
+
+## 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
