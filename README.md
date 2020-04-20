@@ -1,4 +1,6 @@
-## Homework-1-code-refactor
+## Code-refactor
+
+Link: https://jasonstevens13.github.io/code-refactor/
 
 Description: For this, our first UPENN Bootcamp homework assignment, we were instructed as follows (see below ## 01 HTMLCSS Git: Code Refactor, and down). As I took into consideration each of the acceptance criteria, I made a number of edits to both the html and css files. I made comments preceeding each change, in order to assist in highlighting the changes.
 
